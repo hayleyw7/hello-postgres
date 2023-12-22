@@ -1,3 +1,3 @@
 # Hello postgres
 
-This is the first postgres database I've created from scratch myself.
+This is an example I created of a postgres database.
